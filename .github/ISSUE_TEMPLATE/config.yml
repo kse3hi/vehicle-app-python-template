@@ -2,4 +2,5 @@ blank_issues_enabled: false
 contact_links:
   - name: GitHub Community Support
     url: https://github.com/eclipse-velocitas/velocitas-docs/issues/new
+    about: Prease ask and report here.
 .
