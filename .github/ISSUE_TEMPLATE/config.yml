@@ -1,6 +1,10 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
+  - name: GitHub Community Bug Report
+    url: https://github.com/eclipse-velocitas/velocitas-docs/issues/new
+    about: Prease ask and report here.
+    contact_links:
+  - name: GitHub Community Feature Request
     url: https://github.com/eclipse-velocitas/velocitas-docs/issues/new
     about: Prease ask and report here.
 .
