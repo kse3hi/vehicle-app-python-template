@@ -4,3 +4,7 @@ contact_links:
     url: https://github.com/kse3hi/velocitas-docs/issues/new?assignees=&labels=bug&projects=&template=BUG-REPORT.yml&title=%5BBug%5D%3A+
     about: Prease ask and report here.
     contact_links:
+  - name: GitHub Community Feature Request
+    url: https://github.com/kse3hi/velocitas-docs/issues/new?assignees=&labels=bug&projects=&template=BUG-REPORT.yml&title=%5BBug%5D%3A+
+    about: Prease ask and report here.
+    contact_links:  
